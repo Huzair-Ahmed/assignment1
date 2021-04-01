@@ -13,4 +13,7 @@ public class Student {
     void test(){
         
     }
+    void anothermethod(){
+        System.out.println("hi");
+    }
 }
